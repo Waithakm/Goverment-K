@@ -1,0 +1,14 @@
+div{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 200px;
+}
+.C{
+    text-align: center;
+}
+.G{
+    text-align: center;
+    background-color: red;
+    color: white;
+}
