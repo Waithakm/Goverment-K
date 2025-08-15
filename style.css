@@ -3,6 +3,7 @@ div{
     justify-content: center;
     padding: 20px;
     gap: 200px;
+    background-color: gray;
 }
 .C{
     text-align: center;
@@ -11,4 +12,7 @@ div{
     text-align: center;
     background-color: red;
     color: white;
+}
+body{
+   bo 
 }
